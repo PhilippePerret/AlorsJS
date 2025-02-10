@@ -1,1 +1,4 @@
 Copier-coller-jouer ce code pour téléverser les trois fichiers sur l'hébergement.
+
+
+scp -r ./lib icare@ssh-icare.alwaysdata.net:/home/icare/www/js-libraries/alors
